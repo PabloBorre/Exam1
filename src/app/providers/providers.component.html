@@ -1,0 +1,8 @@
+
+<div *ngIf="provider">
+  <div *ngFor="let product of productos">
+    <h3>{{ product.name }}</h3>
+    <h4>{{ product.price | currency }}</h4>
+    <p>{{ product.description }}</p>
+  </div>
+</div>

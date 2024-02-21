@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Samsung",
+    "phones": 100,
+    "IdPhones": 1
+  },
+  {
+    "name": "Apple",
+    "phones": 400,
+    "IdPhones": 2
+  },
+  {
+    "name": "Xiaomi",
+    "phones": 300,
+    "IdPhones": 3
+  }
+]
